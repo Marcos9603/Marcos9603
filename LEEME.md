@@ -1,16 +1,16 @@
-# Hi, I'm Marcos Antonio Avila Morales! 👋
+# Hola, soy Marcos Antonio Ávila Morales. 👋
 
 
-##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> About Me
+##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Acerca de mi
 
-I am motivated to become an experienced Python developer, with skills in data analysis and modeling. I love exploring new areas and currently my goal is to develop personal projects that allow me to apply and perfect my knowledge in solving everyday problems in people's lives.
+Me motiva convertirme en un desarrollador experimentado en Python, con habilidades en el análisis y modelado de datos. Me encanta explorar nuevas áreas y actualmente mi objetivo es desarrollar proyectos personales que me permitan aplicar y perfeccionar mis conocimientos en la resolución de problemas cotidianos en la vida de las personas.
 
-Additionally, I hope to join a collaborative work team that provides me with opportunities for growth and allows me to add value. I am passionate about teamwork and spending time with people who share my interests.
+Además, espero unirme a un equipo de trabajo colaborativo que me ofrezca oportunidades de crecimiento y me permita aportar valor. Me apasiona el trabajo en equipo y pasar tiempo con personas que comparten mis intereses.
 
-Currently, what I enjoy most in my free time is being in contact with nature, as it helps me achieve peace of mind.
+Actualmente, lo que más me gusta en mi tiempo libre es estar en contacto con la naturaleza, ya que me ayuda a conseguir tranquilidad.
 
 ##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Featured Projects
-- **DashBio:** Application to keep track of parameters such as blood glucose and blood pressure [[1](URL_of_repository_1)]. (In development)
+- **DashBio:** Aplicación para llevar un control de parámetros como la glucemia y la tensión arterial [[1](URL_de_repositorio_1)]. (En desarrollo)
 
 
 ## 🥇Skills
@@ -77,31 +77,30 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 </ul>
 
 
-## 🗣 Languages
+## 🗣 Idiomas
 <img src="src/español.png" alt="Text" title="Spanish" width="20px" style="margin-right: 10px;" />Spanish (native)
 
 <img src="src/english.png" alt="Text" title="English" width="20px" style="margin-right: 10px;" />English (B1)
 
-## 🎓 Studies
+## 🎓 Estudios
 <p>
-🎓 Medicine career (abandoned in the 5th year).
+🎓 Carrera de Medicina (abandonada en 5º curso).
 </p>
 <p>
-🎓 I am currently studying a degree in Computer Systems Engineering. Online modality at the Universidad Virtual del Estado de Guanajuato (UVEG).
+🎓 Actualmente estudio la Licenciatura en Ingeniería en Sistemas Computacionales. Modalidad en línea en la Universidad Virtual del Estado de Guanajuato (UVEG).
 </p>
 
-## 🏁 Projection for the year 2024
-For this year 2024 I have 3 main objectives:
+## 🏁 Proyección para el año 2024
+Para este año 2024 tengo 3 objetivos principales:
 
 <ul class="text">
-<li>Develop projects.</li>
-<li>Venture into machine learning, deep learning and artificial intelligence.</li>
-<li>Integrate into a work team that promotes my professional growth.</li>
+<li>Desarrollar proyectos.</li>
+<li>Incursionar en machine learning, deep learning e inteligencia artificial.</li>
+<li>Unirme a un equipo que promueve mi crecimiento profesional.</li>
 </ul>
 
 
-## 🤙 Contact
-<p>Connect with me on</p> 
+## 🤙 Contacto
 
 <img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
 
@@ -111,10 +110,10 @@ For this year 2024 I have 3 main objectives:
 
 <img src="src/email.png" alt="Text" title="Email" width="40px" style="margin-right: 10px;" />[marco.developer@outlook.com](mailto:marco.developer@outlook.com)
 
-<p class="text">Let's collaborate on exciting Python projects!</p>
+Colaboremos en apasionantes proyectos de Python.
 
 
-## 🏆 Some small achievements
+## 🏆 Algunos pequeños logros
 <p>
  <img src="src/certifications/basesdedatos_modularizacion_deploy.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
  <img src="src/certifications/fastapi.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
