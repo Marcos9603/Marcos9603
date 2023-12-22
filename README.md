@@ -1,6 +1,6 @@
 # Hi, I'm Marcos Antonio Avila Morales! 👋
 
-
+<img src="src/español.png" alt="Text" title="Spanish" width="20px" style="margin-left: 400px;" />[Leeme en español](LEEME.md)
 ##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> About Me
 
 I am motivated to become an experienced Python developer, with skills in data analysis and modeling. I love exploring new areas and currently my goal is to develop personal projects that allow me to apply and perfect my knowledge in solving everyday problems in people's lives.
@@ -103,7 +103,7 @@ For this year 2024 I have 3 main objectives:
 ## 🤙 Contact
 <p>Connect with me on</p> 
 
-<img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
+<img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales/)
 
 <img src="src/Whatsapp.png" alt="Text" title="Whatsapp" width="40px" style="margin-right: 10px;"/>[+53 55417357](https://wa.me/5355417357) 🇨🇺
 

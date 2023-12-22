@@ -102,7 +102,7 @@ Para este año 2024 tengo 3 objetivos principales:
 
 ## 🤙 Contacto
 
-<img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
+<img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales/)
 
 <img src="src/Whatsapp.png" alt="Text" title="Whatsapp" width="40px" style="margin-right: 10px;"/>[+53 55417357](https://wa.me/5355417357) 🇨🇺
 
