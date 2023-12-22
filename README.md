@@ -115,16 +115,20 @@ For this year 2024 I have 3 main objectives:
 
 
 ## 🏆 Some small achievements
-<img src="src/certifications/basesdedatos_modularizacion_deploy.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/fastapi.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/terminal.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/sql_mysql.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/diploma-bd.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/python_avanzado.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/fundamentos_python.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/lenguajes_programacion.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/funciones_estructuras_control.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/algoritmos_diagramadeflujo.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/Introduction_to_data_science.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/data_science_method.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
-<img src="src/certifications/matematicas_data_science.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+<p>
+ <img src="src/certifications/basesdedatos_modularizacion_deploy.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/fastapi.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/terminal.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/sql_mysql.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/diploma-bd.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/python_avanzado.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/fundamentos_python.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/lenguajes_programacion.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/funciones_estructuras_control.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/algoritmos_diagramadeflujo.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/Introduction_to_data_science.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/data_science_method.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/analizy_data.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/visualizing_data.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+ <img src="src/certifications/matematicas_data_science.png" alt="Text" title="certification" width="300px" style="margin-right: 10px"/>
+</p>
