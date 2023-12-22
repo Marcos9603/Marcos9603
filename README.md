@@ -102,7 +102,7 @@ For this year 2024 I have 3 main objectives:
 </ul>
 
 
-## Contact
+## 🤙 Contact
 <p>Connect with me on</p> 
 
 <img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
