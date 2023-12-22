@@ -96,7 +96,7 @@ Para este año 2024 tengo 3 objetivos principales:
 <ul class="text">
 <li>Desarrollar proyectos.</li>
 <li>Incursionar en machine learning, deep learning e inteligencia artificial.</li>
-<li>Unirme a un equipo que promueve mi crecimiento profesional.</li>
+<li>Unirme a un equipo que promueva mi crecimiento profesional.</li>
 </ul>
 
 
