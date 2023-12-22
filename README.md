@@ -1,26 +1,21 @@
+# Hi, I'm Marcos Antonio Avila Morales! 👋
 
-<body class="body">
-    <h1 class="body">Hi, I'm Marcos Antonio Avila Morales! 👋</h1>
-</body>
 
 ##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> About Me
-<p class="text">
+
 I am motivated to become an experienced Python developer, with skills in data analysis and modeling. I love exploring new areas and currently my goal is to develop personal projects that allow me to apply and perfect my knowledge in solving everyday problems in people's lives.
-</p>
-<p class="text">
+
 Additionally, I hope to join a collaborative work team that provides me with opportunities for growth and allows me to add value. I am passionate about teamwork and spending time with people who share my interests.
-</p>
-<p class="text">
+
 Currently, what I enjoy most in my free time is being in contact with nature, as it helps me achieve peace of mind.
-</p>
 
 ##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Featured Projects
-- **DashBio:** <p class="text">Application to keep track of parameters such as blood glucose and blood pressure [[1](URL_of_repository_1)]. (In development)</p>
+- **DashBio:** Application to keep track of parameters such as blood glucose and blood pressure [[1](URL_of_repository_1)]. (In development)
 
 
 ## 🥇Skills
 
-<ul class="skills">
+<ul>
 <li>✅ Python</li>
 <li>✅ FastAPI</li>
 <li>✅ SqlAlchemy</li>
@@ -45,7 +40,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 </ul>
 
 
-<p class="skills_logos" float="left">
+<p>
  <img src="src/Python-logo.png" alt="Text" title="Python" width="40px" style="margin-right: 10px"/>
  <img src="src/fastapi.svg" alt="Text" title="Fastapi" width="45px" style="margin-right: 10px;"/>
  <img src="src/numpy.png" alt="Text" title="Numpy" width="80px" style="margin-right: 10px"/>
@@ -71,7 +66,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 ## 👀 Interests
 
-<ul class="skills">
+<ul>
 <li>✅ Statistics</li>
 <li>✅ Data analysis</li>
 <li>✅ Data science</li>
@@ -82,20 +77,20 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 
 ## 🗣 Languages
-<img src="src/español.png" alt="Text" title="MongoDB" width="20px" style="margin-right: 10px;" />Spanish (native)
+<img src="src/español.png" alt="Text" title="Spanish" width="20px" style="margin-right: 10px;" />Spanish (native)
 
-<img src="src/english.png" alt="Text" title="MongoDB" width="20px" style="margin-right: 10px;" />English (B1)
+<img src="src/english.png" alt="Text" title="English" width="20px" style="margin-right: 10px;" />English (B1)
 
 ## 🎓 Studies
-<p class="text">
+<p>
 🎓 Medicine career (abandoned in the 5th year).
 </p>
-<p class="text">
+<p>
 🎓 I am currently studying a degree in Computer Systems Engineering. Online modality at the Universidad Virtual del Estado de Guanajuato (UVEG).
 </p>
 
 ## Projection for the year 2024
-<p class="text">
+<p>
 For this year 2024 I have 3 main objectives:
 </p>
 
@@ -107,7 +102,7 @@ For this year 2024 I have 3 main objectives:
 
 
 ## Contact
-<p class="text">Connect with me on</p> 
+<p>Connect with me on</p> 
 
 <img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
 
@@ -118,3 +113,4 @@ For this year 2024 I have 3 main objectives:
 <img src="src/email.png" alt="Text" title="Email" width="40px" style="margin-right: 10px;" />[marco.developer@outlook.com](mailto:marco.developer@outlook.com)
 
 <p class="text">Let's collaborate on exciting Python projects!</p>
+
