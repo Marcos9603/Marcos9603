@@ -10,7 +10,7 @@ Additionally, I hope to join a collaborative work team that provides me with opp
 Currently, what I enjoy most in my free time is being in contact with nature, as it helps me achieve peace of mind.
 
 ##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Featured Projects
-- **DashBio:** Application to keep track of parameters such as blood glucose and blood pressure. (In development)
+- **BioDash:** Application to keep track of parameters such as blood glucose and blood pressure. (In development)
 
 
 ## 🥇Skills
