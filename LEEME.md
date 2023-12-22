@@ -9,7 +9,7 @@ Además, espero unirme a un equipo de trabajo colaborativo que me ofrezca oportu
 
 Actualmente, lo que más me gusta en mi tiempo libre es estar en contacto con la naturaleza, ya que me ayuda a conseguir tranquilidad.
 
-##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Featured Projects
+##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Proyectos destacados
 - **DashBio:** Aplicación para llevar un control de parámetros como la glucemia y la tensión arterial [[1](URL_de_repositorio_1)]. (En desarrollo)
 
 
@@ -64,7 +64,7 @@ Actualmente, lo que más me gusta en mi tiempo libre es estar en contacto con la
  <img src="src/Statistics.png" alt="Text" title="Matplotlib" width="50px" style="margin-right: 10px;"/>
 </p>
 
-## 👀 Interests
+## 👀 Intereses
 
 <ul>
 <li>✅ Statistics</li>
