@@ -30,6 +30,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 <li>✅ Matplotlib</li>
 <li>✅ Selenium</li>
 <li>✅ BeautifulSoup</li>
+<li>✅ Nicegui</li>
 <li>✅ Git</li>
 <li>✅ GitHub</li>
 <li>✅ MQL5</li>
