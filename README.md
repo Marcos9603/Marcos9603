@@ -73,6 +73,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 <li>✅ Machine Learning</li>
 <li>✅ Deep Learning</li>
 <li>✅ Artificial Intelligence</li>
+<li>✅ Trading algorithms</li>
 </ul>
 
 
