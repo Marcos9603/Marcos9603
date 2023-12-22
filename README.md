@@ -114,3 +114,6 @@ For this year 2024 I have 3 main objectives:
 <img src="src/email.png" alt="Text" title="Email" width="40px" style="margin-right: 10px;" />[marco.developer@outlook.com](mailto:marco.developer@outlook.com)
 
 <p class="text">Let's collaborate on exciting Python projects!</p>
+
+
+## 🏆 Some small achievements
