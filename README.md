@@ -45,17 +45,17 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 
 <p class="skills_logos" float="left">
- <img src="src/Python-logo.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/>
- <img src="src/fastapi.svg" alt="Text" title="fastapi" width="45px" style="margin-right: 10px;"/>
- <img src="src/numpy.png" alt="Text" title="+ 2 numpy" width="80px" style="margin-right: 10px"/>
- <img src="src/pandas.png" alt="Text" title="pandas" width="50px" style="margin-right: 10px"/>
- <img src="src/polars.png" alt="Text" title="polars" width="60px" style="margin-right: 10px"/>
- <img src="src/selenium.svg" alt="Text" title="selenium" width="50px" style="margin-right: 10px"/>
+ <img src="src/Python-logo.png" alt="Text" title="Python" width="40px" style="margin-right: 10px"/>
+ <img src="src/fastapi.svg" alt="Text" title="Fastapi" width="45px" style="margin-right: 10px;"/>
+ <img src="src/numpy.png" alt="Text" title="Numpy" width="80px" style="margin-right: 10px"/>
+ <img src="src/pandas.png" alt="Text" title="Pandas" width="50px" style="margin-right: 10px"/>
+ <img src="src/polars.png" alt="Text" title="Polars" width="60px" style="margin-right: 10px"/>
+ <img src="src/selenium.svg" alt="Text" title="Selenium" width="50px" style="margin-right: 10px"/>
  <img src="src/git.png" alt="Text" title="git" width="60px" style="margin-right: 10px"/>
  <img src="src/bs.png" alt="Text" title="BeautifulSoup" width="120px" style="margin-right: 10px;"/>
  <img src="src/github.png" alt="Text" title="github" width="50px" style="margin-right: 10px;"/>
   <img src="src/MQL5_Community_Logo.png" alt="Mql5" title="MQL5" width="60px" style="margin-right: 10px;"/>
- <img src="src/docker.png" alt="Text" title="docker" width="50px" style="margin-right: 10px"/>
+ <img src="src/docker.png" alt="Text" title="Docker" width="50px" style="margin-right: 10px"/>
  <img src="src/api.png" alt="Text" title="APIRest" width="50px" style="margin-right: 10px"/>
   <img src="src/sql.png" alt="Text" title="SQL" width="50px" style="margin-right: 10px"/>
  <img src="src/mysql.png" alt="Text" title="MySQL" width="60px" style="margin-right: 10px;"/>
@@ -65,7 +65,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
  <img src="src/linux.png" alt="Text" title="Linux" width="45px" style="margin-right: 10px;"/>
  <img src="src/Bash.svg" alt="Text" title="Bash" width="45px" style="margin-right: 10px;"/>
  <img src="src/sqlalchemy.svg" alt="Text" title="SQLAlchemy" width="120px" style="margin-right: 10px;"/>
- <img src="src/Statistics.png" alt="Text" title="SQLAlchemy" width="50px" style="margin-right: 10px;"/>
+ <img src="src/Statistics.png" alt="Text" title="Matplotlib" width="50px" style="margin-right: 10px;"/>
 </p>
 
 ## 👀 Interests
@@ -108,38 +108,12 @@ For this year 2024 I have 3 main objectives:
 ## Contact
 <p class="text">Connect with me on</p> 
 
-<img src="src/linked.png" alt="Text" title="MongoDB" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
+<img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
 
-<img src="src/Whatsapp.png" alt="Text" title="Linux" width="40px" style="margin-right: 10px;"/>[+53 55417357](https://wa.me/5355417357) 🇨🇺
+<img src="src/Whatsapp.png" alt="Text" title="Whatsapp" width="40px" style="margin-right: 10px;"/>[+53 55417357](https://wa.me/5355417357) 🇨🇺
 
-<img src="src/telegram.png" alt="Text" title="MongoDB" width="40px" style="margin-right: 10px;" />@markospy
+<img src="src/telegram.png" alt="Text" title="Telegram" width="40px" style="margin-right: 10px;" />@markospy
 
-<img src="src/email.png" alt="Text" title="MongoDB" width="40px" style="margin-right: 10px;" />[marco.developer@outlook.com](mailto:marco.developer@outlook.com)
+<img src="src/email.png" alt="Text" title="Email" width="40px" style="margin-right: 10px;" />[marco.developer@outlook.com](mailto:marco.developer@outlook.com)
 
 <p class="text">Let's collaborate on exciting Python projects!</p>
-
-
-<style>
-.skills {
- font-family: victor-mono;
- column-count: 3;
- list-style-type: none;
- padding: 0;
-}
-
-.skills_logos {
- font-family: victor-mono;
- column-count: 3;
- list-style-type: none;
- padding: 0;
-}
-
-.body {
- background-color: #69a9d2;
- color: #fff;
-}
-
-.text {
- font-family: victor-mono;
-}
-</style>
