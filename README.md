@@ -1,7 +1,6 @@
 
-<body class="body">
-    <h1 class="body">Hi, I'm Marcos Antonio Avila Morales! 👋</h1>
-</body>
+# Hi, I'm Marcos Antonio Avila Morales! 👋
+
 
 ##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> About Me
 <p class="text">
