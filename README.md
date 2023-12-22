@@ -6,15 +6,12 @@
 
 I am motivated to become an experienced Python developer, with skills in data analysis and modeling. I love exploring new areas and currently my goal is to develop personal projects that allow me to apply and perfect my knowledge in solving everyday problems in people's lives.
 
-
 Additionally, I hope to join a collaborative work team that provides me with opportunities for growth and allows me to add value. I am passionate about teamwork and spending time with people who share my interests.
-
 
 Currently, what I enjoy most in my free time is being in contact with nature, as it helps me achieve peace of mind.
 
-
 ##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Featured Projects
-- **DashBio:** <p class="text">Application to keep track of parameters such as blood glucose and blood pressure [[1](URL_of_repository_1)]. (In development)</p>
+- **DashBio:** Application to keep track of parameters such as blood glucose and blood pressure [[1](URL_of_repository_1)]. (In development)
 
 
 ## 🥇Skills
