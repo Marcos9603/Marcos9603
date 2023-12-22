@@ -90,7 +90,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 🎓 I am currently studying a degree in Computer Systems Engineering. Online modality at the Universidad Virtual del Estado de Guanajuato (UVEG).
 </p>
 
-## Projection for the year 2024
+## 🏁 Projection for the year 2024
 <p>
 For this year 2024 I have 3 main objectives:
 </p>
