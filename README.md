@@ -10,7 +10,11 @@ Additionally, I hope to join a collaborative work team that provides me with opp
 Currently, what I enjoy most in my free time is being in contact with nature, as it helps me achieve peace of mind.
 
 ##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Featured Projects
+<<<<<<< HEAD
 - **DashBio:** Application to keep track of parameters such as blood glucose and blood pressure [[1](URL_of_repository_1)]. (In development)
+=======
+- **BioDash:** Application to keep track of parameters such as blood glucose and blood pressure. (In development)
+>>>>>>> 9ed922624fdf2b0730d7ea1e9e17e17ab4af1908
 
 
 ## 🥇Skills
@@ -73,6 +77,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 <li>✅ Machine Learning</li>
 <li>✅ Deep Learning</li>
 <li>✅ Artificial Intelligence</li>
+<li>✅ Trading algorithms</li>
 </ul>
 
 
@@ -89,7 +94,11 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 🎓 I am currently studying a degree in Computer Systems Engineering. Online modality at the Universidad Virtual del Estado de Guanajuato (UVEG).
 </p>
 
+<<<<<<< HEAD
 ## Projection for the year 2024
+=======
+## 🏁 Projection for the year 2024
+>>>>>>> 9ed922624fdf2b0730d7ea1e9e17e17ab4af1908
 <p>
 For this year 2024 I have 3 main objectives:
 </p>
@@ -101,7 +110,11 @@ For this year 2024 I have 3 main objectives:
 </ul>
 
 
+<<<<<<< HEAD
 ## Contact
+=======
+## 🤙 Contact
+>>>>>>> 9ed922624fdf2b0730d7ea1e9e17e17ab4af1908
 <p>Connect with me on</p> 
 
 <img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
@@ -114,3 +127,8 @@ For this year 2024 I have 3 main objectives:
 
 <p class="text">Let's collaborate on exciting Python projects!</p>
 
+<<<<<<< HEAD
+=======
+
+## 🏆 Some small achievements
+>>>>>>> 9ed922624fdf2b0730d7ea1e9e17e17ab4af1908
