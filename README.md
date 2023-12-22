@@ -82,9 +82,9 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 
 ## 🗣 Languages
-<img src="src/español.png" alt="Text" title="MongoDB" width="20px" style="margin-right: 10px;" />Spanish (native)
+<img src="src/español.png" alt="Text" title="Spanish" width="20px" style="margin-right: 10px;" />Spanish (native)
 
-<img src="src/english.png" alt="Text" title="MongoDB" width="20px" style="margin-right: 10px;" />English (B1)
+<img src="src/english.png" alt="Text" title="English" width="20px" style="margin-right: 10px;" />English (B1)
 
 ## 🎓 Studies
 <p class="text">
