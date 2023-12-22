@@ -1,4 +1,3 @@
-
 # Hi, I'm Marcos Antonio Avila Morales! 👋
 
 
@@ -16,7 +15,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 ## 🥇Skills
 
-<ul class="skills">
+<ul>
 <li>✅ Python</li>
 <li>✅ FastAPI</li>
 <li>✅ SqlAlchemy</li>
@@ -41,7 +40,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 </ul>
 
 
-<p class="skills_logos" float="left">
+<p>
  <img src="src/Python-logo.png" alt="Text" title="Python" width="40px" style="margin-right: 10px"/>
  <img src="src/fastapi.svg" alt="Text" title="Fastapi" width="45px" style="margin-right: 10px;"/>
  <img src="src/numpy.png" alt="Text" title="Numpy" width="80px" style="margin-right: 10px"/>
@@ -67,7 +66,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 ## 👀 Interests
 
-<ul class="skills">
+<ul>
 <li>✅ Statistics</li>
 <li>✅ Data analysis</li>
 <li>✅ Data science</li>
@@ -83,15 +82,15 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 <img src="src/english.png" alt="Text" title="English" width="20px" style="margin-right: 10px;" />English (B1)
 
 ## 🎓 Studies
-<p class="text">
+<p>
 🎓 Medicine career (abandoned in the 5th year).
 </p>
-<p class="text">
+<p>
 🎓 I am currently studying a degree in Computer Systems Engineering. Online modality at the Universidad Virtual del Estado de Guanajuato (UVEG).
 </p>
 
 ## Projection for the year 2024
-<p class="text">
+<p>
 For this year 2024 I have 3 main objectives:
 </p>
 
@@ -103,7 +102,7 @@ For this year 2024 I have 3 main objectives:
 
 
 ## Contact
-<p class="text">Connect with me on</p> 
+<p>Connect with me on</p> 
 
 <img src="src/linked.png" alt="Text" title="LinkedIn" width="40px" style="margin-right: 10px;" /> [LinkedIn](https://www.linkedin.com/inmarcos-antonio-avila-morales-027b34292/)
 
