@@ -3,7 +3,7 @@
 
 ##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Acerca de mi
 
-Me motiva convertirme en un desarrollador experimentado en Python, con habilidades en el análisis y modelado de datos. Me encanta explorar nuevas áreas y actualmente mi objetivo es desarrollar proyectos personales que me permitan aplicar y perfeccionar mis conocimientos en la resolución de problemas cotidianos en la vida de las personas.
+Me motiva convertirme en un desarrollador experimentado en Python, con habilidades en el análisis y modelado de datos. Me apasiona explorar nuevas áreas y actualmente mi objetivo es desarrollar proyectos personales que me permitan aplicar y perfeccionar mis conocimientos en la resolución de problemas cotidianos en la vida de las personas.
 
 Además, espero unirme a un equipo de trabajo colaborativo que me ofrezca oportunidades de crecimiento y me permita aportar valor. Me apasiona el trabajo en equipo y pasar tiempo con personas que comparten mis intereses.
 
