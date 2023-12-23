@@ -49,6 +49,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
  <img src="src/selenium.svg" alt="Text" title="Selenium" width="50px" style="margin-right: 10px"/>
  <img src="src/git.png" alt="Text" title="git" width="60px" style="margin-right: 10px"/>
  <img src="src/bs.png" alt="Text" title="BeautifulSoup" width="120px" style="margin-right: 10px;"/>
+ <img src="src/nicegui.png" alt="Text" title="Nicegui" width="50px" style="margin-right: 10px;"/>
  <img src="src/github.png" alt="Text" title="github" width="50px" style="margin-right: 10px;"/>
  <img src="src/MQL5_Community_Logo.png" alt="Mql5" title="MQL5" width="60px" style="margin-right: 10px;"/>
  <img src="src/docker.png" alt="Text" title="Docker" width="50px" style="margin-right: 10px"/>
