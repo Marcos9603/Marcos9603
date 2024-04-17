@@ -16,43 +16,37 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 ## 🥇Skills
 
 <ul>
-<li>✅ Python</li>
-<li>✅ FastAPI</li>
-<li>✅ SqlAlchemy</li>
-<li>✅ Numpy</li>
-<li>✅ Pandas</li>
-<li>✅ Polars</li>
-<li>✅ Matplotlib</li>
-<li>✅ Selenium</li>
-<li>✅ BeautifulSoup</li>
-<li>✅ Nicegui</li>
-<li>✅ Git</li>
-<li>✅ GitHub</li>
-<li>✅ MQL5</li>
-<li>✅ Docker</li>
-<li>✅ ApiRest</li>
-<li>✅ SQL</li>
-<li>✅ MySQL</li>
-<li>✅ PostgreSQL</li>
-<li>✅ SQLite</li>
-<li>✅ Mongodb</li>
-<li>✅ Linux</li>
+ <li>✅ HTML5</li>
+ <li>✅ CSS3</li>
+ <li>✅ JavaScript</li>
+ <li>✅ React</li>
+ <li>✅ Astro</li>
+ <li>✅ Tailwind</li>
+ <li>✅ Python</li>
+ <li>✅ FastAPI</li>
+ <li>✅ SqlAlchemy</li>
+ <li>✅ Git</li>
+ <li>✅ GitHub</li>
+ <li>✅ ApiRest</li>
+ <li>✅ SQL</li>
+ <li>✅ MySQL</li>
+ <li>✅ PostgreSQL</li>
+ <li>✅ Mongodb</li>
+ <li>✅ Linux</li>
 </ul>
 
 
 <p>
+ <img src="src/LogosHtml5.png" alt="Text" title="Html5" width="120px" style="margin-right: 10px;"/> 
+ <img src="src/DeviconCss3Wordmark.png" alt="Text" title="Css3" width="120px" style="margin-right: 10px;"/>
+ <img src="src/SkillIconsJavascript.png" alt="Text" title="Javascript" width="120px" style="margin-right: 10px;"/>
+ <img src="src/DeviconReactWordmark.png" alt="Text" title="React" width="120px" style="margin-right: 10px;"/>
+ <img src="src/DeviconAstro.png" alt="Text" title="Astro" width="120px" style="margin-right: 10px;"/>
+ <img src="src/LogosTailwindcssIcon.png" alt="Text" title="Tailwind" width="120px" style="margin-right: 10px;"/>
  <img src="src/Python-logo.png" alt="Text" title="Python" width="40px" style="margin-right: 10px"/>
  <img src="src/fastapi.svg" alt="Text" title="Fastapi" width="45px" style="margin-right: 10px;"/>
- <img src="src/numpy.png" alt="Text" title="Numpy" width="80px" style="margin-right: 10px"/>
- <img src="src/pandas.png" alt="Text" title="Pandas" width="50px" style="margin-right: 10px"/>
- <img src="src/polars.png" alt="Text" title="Polars" width="60px" style="margin-right: 10px"/>
- <img src="src/selenium.svg" alt="Text" title="Selenium" width="50px" style="margin-right: 10px"/>
  <img src="src/git.png" alt="Text" title="git" width="60px" style="margin-right: 10px"/>
- <img src="src/bs.png" alt="Text" title="BeautifulSoup" width="120px" style="margin-right: 10px;"/>
- <img src="src/nicegui.png" alt="Text" title="Nicegui" width="50px" style="margin-right: 10px;"/>
  <img src="src/github.png" alt="Text" title="github" width="50px" style="margin-right: 10px;"/>
- <img src="src/MQL5_Community_Logo.png" alt="Mql5" title="MQL5" width="60px" style="margin-right: 10px;"/>
- <img src="src/docker.png" alt="Text" title="Docker" width="50px" style="margin-right: 10px"/>
  <img src="src/api.png" alt="Text" title="APIRest" width="50px" style="margin-right: 10px"/>
  <img src="src/sql.png" alt="Text" title="SQL" width="50px" style="margin-right: 10px"/>
  <img src="src/mysql.png" alt="Text" title="MySQL" width="60px" style="margin-right: 10px;"/>
@@ -62,7 +56,6 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
  <img src="src/linux.png" alt="Text" title="Linux" width="45px" style="margin-right: 10px;"/>
  <img src="src/Bash.svg" alt="Text" title="Bash" width="45px" style="margin-right: 10px;"/>
  <img src="src/sqlalchemy.svg" alt="Text" title="SQLAlchemy" width="120px" style="margin-right: 10px;"/>
- <img src="src/Statistics.png" alt="Text" title="Matplotlib" width="50px" style="margin-right: 10px;"/>
 </p>
 
 ## 👀 Interests
