@@ -37,7 +37,7 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 
 <p>
- <img src="src/LogosHtml5.png" alt="Text" title="Html5" width="120px" style="margin-right: 10px;"/> 
+ <img src="src/LogosHtml5.png" alt="Text" title="Html5" width="50px" style="margin-right: 10px;"/> 
  <img src="src/DeviconCss3Wordmark.png" alt="Text" title="Css3" width="120px" style="margin-right: 10px;"/>
  <img src="src/SkillIconsJavascript.png" alt="Text" title="Javascript" width="120px" style="margin-right: 10px;"/>
  <img src="src/DeviconReactWordmark.png" alt="Text" title="React" width="120px" style="margin-right: 10px;"/>
