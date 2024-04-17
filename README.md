@@ -37,12 +37,12 @@ Currently, what I enjoy most in my free time is being in contact with nature, as
 
 
 <p>
- <img src="src/LogosHtml5.svg" alt="Text" title="Html5" width="32px" style="margin-right: 10px;"/> 
- <img src="src/DeviconCss3Wordmark.svg" alt="Text" title="Css3" width="32px" style="margin-right: 10px;"/>
- <img src="src/SkillIconsJavascript.svg" alt="Text" title="Javascript" width="32px" style="margin-right: 10px;"/>
- <img src="src/DeviconReactWordmark.svg" alt="Text" title="React" width="32px" style="margin-right: 10px;"/>
- <img src="src/DeviconAstro.svg" alt="Text" title="Astro" width="32px" style="margin-right: 10px;"/>
- <img src="src/LogosTailwindcssIcon.svg" alt="Text" title="Tailwind" width="32px" style="margin-right: 10px;"/>
+ <img src="src/DeviconHtml5Wordmark.svg" alt="Text" title="Html5" width="40px" style="margin-right: 10px;"/> 
+ <img src="src/DeviconCss3Wordmark.svg" alt="Text" title="Css3" width="40px" style="margin-right: 10px;"/>
+ <img src="src/SkillIconsJavascript.svg" alt="Text" title="Javascript" width="40px" style="margin-right: 10px;"/>
+ <img src="src/DeviconReactWordmark.svg" alt="Text" title="React" width="40px" style="margin-right: 10px;"/>
+ <img src="src/DeviconAstro.svg" alt="Text" title="Astro" width="40px" style="margin-right: 10px;"/>
+ <img src="src/LogosTailwindcssIcon.svg" alt="Text" title="Tailwind" width="40px" style="margin-right: 10px;"/>
  <img src="src/Python-logo.png" alt="Text" title="Python" width="40px" style="margin-right: 10px"/>
  <img src="src/fastapi.svg" alt="Text" title="Fastapi" width="45px" style="margin-right: 10px;"/>
  <img src="src/git.png" alt="Text" title="git" width="60px" style="margin-right: 10px"/>
