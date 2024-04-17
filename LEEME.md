@@ -15,6 +15,7 @@ Actualmente, lo que más me gusta en mi tiempo libre es estar en contacto con la
 
 ## 🥇Skills
 
+
 <ul>
  <li>✅ HTML5</li>
  <li>✅ CSS3</li>
@@ -37,12 +38,12 @@ Actualmente, lo que más me gusta en mi tiempo libre es estar en contacto con la
 
 
 <p>
- <img src="src/LogosHtml5.png" alt="Text" title="Html5" width="120px" style="margin-right: 10px;"/> 
- <img src="src/DeviconCss3Wordmark.png" alt="Text" title="Css3" width="120px" style="margin-right: 10px;"/>
- <img src="src/SkillIconsJavascript.png" alt="Text" title="Javascript" width="120px" style="margin-right: 10px;"/>
- <img src="src/DeviconReactWordmark.png" alt="Text" title="React" width="120px" style="margin-right: 10px;"/>
- <img src="src/DeviconAstro.png" alt="Text" title="Astro" width="120px" style="margin-right: 10px;"/>
- <img src="src/LogosTailwindcssIcon.png" alt="Text" title="Tailwind" width="120px" style="margin-right: 10px;"/>
+ <img src="src/DeviconHtml5Wordmark.svg" alt="Text" title="Html5" width="40px" style="margin-right: 10px;"/> 
+ <img src="src/DeviconCss3Wordmark.svg" alt="Text" title="Css3" width="40px" style="margin-right: 10px;"/>
+ <img src="src/SkillIconsJavascript.svg" alt="Text" title="Javascript" width="40px" style="margin-right: 10px;"/>
+ <img src="src/DeviconReactWordmark.svg" alt="Text" title="React" width="40px" style="margin-right: 10px;"/>
+ <img src="src/DeviconAstro.svg" alt="Text" title="Astro" width="40px" style="margin-right: 10px;"/>
+ <img src="src/LogosTailwindcssIcon.svg" alt="Text" title="Tailwind" width="40px" style="margin-right: 10px;"/>
  <img src="src/Python-logo.png" alt="Text" title="Python" width="40px" style="margin-right: 10px"/>
  <img src="src/fastapi.svg" alt="Text" title="Fastapi" width="45px" style="margin-right: 10px;"/>
  <img src="src/git.png" alt="Text" title="git" width="60px" style="margin-right: 10px"/>
