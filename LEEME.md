@@ -1,5 +1,6 @@
 # Hola, soy Marcos Antonio Ávila Morales. 👋
 
+## Mira mi portfolio aquí (https://markospy.vercel.app/)
 
 ##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Acerca de mi
 
@@ -10,7 +11,7 @@ Además, espero unirme a un equipo de trabajo colaborativo que me ofrezca oportu
 Actualmente, lo que más me gusta en mi tiempo libre es estar en contacto con la naturaleza, ya que me ayuda a conseguir tranquilidad.
 
 ##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Proyectos destacados
-- **DashBio:** Aplicación para llevar un control de parámetros como la glucemia y la tensión arterial [[1](URL_de_repositorio_1)]. (En desarrollo)
+- **DashBio:** Aplicación para llevar un control de parámetros como la glucemia y la tensión arterial [[1](https://github.com/markospy/biodash)].. (En desarrollo)
 
 
 ## 🥇Skills
