@@ -2,7 +2,7 @@
 
 <img src="src/español.png" alt="Text" title="Spanish" width="20px" style="margin-left: 400px;" />[Leeme en español](LEEME.md)
 
-## https://markospy.vercel.app/
+## Look at my portfolio here [[1](https://markospy.vercel.app/)]
 
 ##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> About Me
 
