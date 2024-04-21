@@ -1,6 +1,9 @@
 # Hi, I'm Marcos Antonio Avila Morales! 👋
 
 <img src="src/español.png" alt="Text" title="Spanish" width="20px" style="margin-left: 400px;" />[Leeme en español](LEEME.md)
+
+## https://markospy.vercel.app/
+
 ##  <img src="src/me.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> About Me
 
 I am motivated to become an experienced Python developer, with skills in data analysis and modeling. I love exploring new areas and currently my goal is to develop personal projects that allow me to apply and perfect my knowledge in solving everyday problems in people's lives.
@@ -10,7 +13,7 @@ Additionally, I hope to join a collaborative work team that provides me with opp
 Currently, what I enjoy most in my free time is being in contact with nature, as it helps me achieve peace of mind.
 
 ##  <img src="src/portfolio.png" alt="Text" title="python" width="40px" style="margin-right: 10px"/> Featured Projects
-- **DashBio:** Application to keep track of parameters such as blood glucose and blood pressure [[1](URL_of_repository_1)]. (In development)
+- **DashBio:** Application to keep track of parameters such as blood glucose and blood pressure [[1](https://github.com/markospy/biodash)]. (In development)
 
 
 ## 🥇Skills
