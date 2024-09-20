@@ -7,13 +7,13 @@
 
 | **Frontend** | **Backend** | **Databases** | **Tools** |
 | --- | --- | --- | --- |
-| ✔️ HTML5 | ✔️ Python | ✔️ SQL | ✔️ Git |
-| ✔️ CSS3 | ✔️ FastAPI | ✔️ MySQL | ✔️ GitHub |
-| ✔️ JavaScript |  | ✔️ PostgreSQL | ✔️ Linux |
-| ✔️ Typescript |  | ✔️ MongoDB | ✔️ Docker |
-| ✔️ React |  | 👉 |  |
-| ✔️ React Native |  | 👉 |  |
-| ✔️ Tailwind |  | 👉 |  |
+| HTML5 | Python | SQL | Git |
+| CSS3 | FastAPI | MySQL | GitHub |
+| JavaScript |  | PostgreSQL | Linux |
+| Typescript |  | MongoDB | Docker |
+| React |  | |  |
+| React Native |  | |  |
+| Tailwind |  | |  |
 
 <h2 class="poppins-semibold">Projects</h2>
 
