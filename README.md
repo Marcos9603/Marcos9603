@@ -29,10 +29,13 @@
 	</div>
 	<div class="grid-item project">
 		<h3 class="poppins-medium project-h3"><a href='https://github.com/markospy/landing_bet_master' >Bet Master</a></h3>
-		<p class='project-p'>Landing page I made for a client. Shows the profit history of a sports betting hipster.<p>
+		<p class='project-p'>Landing page I made for a friend. Shows the profit history of a sports betting hipster.<p>
 	</div>
+	<div class="grid-item project">
+		<h3 class="poppins-medium project-h3"><a href='https://github.com/markospy/personal_finance_management' >Personal financr management</a></h3>
+<p class='project-p'>This is the application I'm currently working on: a personal financial management tool. The goal is to implement a large part of my technology stack. For the database, I'm using PostgreSQL, which I manage through the FastApi API using the SQLAlchemy ORM.
+<p class='project-p'>Also, I'm using pytest for testing on my API. For the frontend, I will use React and React Native, in order to offer both a web version and a mobile version of the application. I am also using Docker to streamline development and ensure that my application is easy to share and deploy.
 </div>
-
 
 <h2 class="poppins-semibold">Languages</h2>
 <p>✔️ Spanish (native)</p>
