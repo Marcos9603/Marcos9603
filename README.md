@@ -25,7 +25,7 @@
 	</div>
 	<div class="grid-item project">
 		<h3 class="poppins-medium project-h3"><a href='https://github.com/markospy/biodash' >BioDash</a></h3>
-		<p class='project-p'>This backend serves to keep track of the patients' main cardiovascular and glycemic parameters. I am currently working on the frontend.<p>
+		<p class='project-p'>This backend serves to keep track of the patients' main cardiovascular and glycemic parameters. I will start working on the frontend soon.<p>
 	</div>
 	<div class="grid-item project">
 		<h3 class="poppins-medium project-h3"><a href='https://github.com/markospy/landing_bet_master' >Bet Master</a></h3>
