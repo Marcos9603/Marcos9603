@@ -11,8 +11,8 @@
 | ✔️ CSS3 | ✔️ FastAPI | ✔️ MySQL | ✔️ GitHub |
 | ✔️ JavaScript |  | ✔️ PostgreSQL | ✔️ Linux |
 | ✔️ Typescript |  | ✔️ MongoDB | ✔️ Docker |
-| ✔️ React |  |  | 👉 |
-| ✔️ React Native | 👉 |  |  |
+| ✔️ React |  | 👉 |  |
+| ✔️ React Native |  | 👉 |  |
 | ✔️ Tailwind |  | 👉 |  |
 
 <h2 class="poppins-semibold">Projects</h2>
