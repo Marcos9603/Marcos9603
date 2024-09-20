@@ -1,4 +1,3 @@
-
 <body >
 <h1 class="poppins-extrabold">About Me</h1>
 
@@ -12,9 +11,9 @@
 | ✔️ CSS3 | ✔️ FastAPI | ✔️ MySQL | ✔️ GitHub |
 | ✔️ JavaScript |  | ✔️ PostgreSQL | ✔️ Linux |
 | ✔️ Typescript |  | ✔️ MongoDB | ✔️ Docker |
-| ✔️ React |  |  |  |
-| ✔️ React Native |  |  |  |
-| ✔️ Tailwind |  |  |  |
+| ✔️ React |  |  | 👉 |
+| ✔️ React Native | 👉 |  |  |
+| ✔️ Tailwind |  | 👉 |  |
 
 <h2 class="poppins-semibold">Projects</h2>
 
