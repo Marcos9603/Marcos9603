@@ -10,9 +10,10 @@
 | --- | --- | --- | --- |
 | ✔️ HTML5 | ✔️ Python | ✔️ SQL | ✔️ Git |
 | ✔️ CSS3 | ✔️ FastAPI | ✔️ MySQL | ✔️ GitHub |
-| ✔️ JavaScript | ✔️ Django | ✔️ PostgreSQL | ✔️ Linux |
+| ✔️ JavaScript |  | ✔️ PostgreSQL | ✔️ Linux |
 | ✔️ Typescript |  | ✔️ MongoDB | ✔️ Docker |
 | ✔️ React |  |  |  |
+| ✔️ React Native |  |  |  |
 | ✔️ Tailwind |  |  |  |
 
 <h2 class="poppins-semibold">Projects</h2>
