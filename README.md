@@ -47,7 +47,6 @@
 
 <h2 class="poppins-semibold">Contact</h2>
 <p><a href="https://www.linkedin.com/in/marcos-antonio-avila-morales/">LinkedIn</a></p>
-<p><a href="https://wa.me/5355417357">WhatsApp: +53 55417357</a></p>
 <p><a href="mailto:marco.developer@outlook.com">Email: marco.developer@outlook.com</a></p>
 <p class="poppins-regular">Let's collaborate on exciting Python projects!</p>
 
