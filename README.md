@@ -3,7 +3,14 @@
 
 <p class="poppins-regular">I'm Marcos Antonio Avila Morales, a full-stack developer with a passion for web development, entrepreneurship and personal growth.</p>
 
-<h2 class="poppins-semibold">Skills</h2>
+<h2 class="poppins-semibold">Contact</h2>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-antonio-avila-morales/)
+![Email](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:marco.developer@outlook.com)
+
+
+# 💻 Tech Stack:
+## Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 | **Frontend** | **Backend** | **Databases** | **Tools** |
 | --- | --- | --- | --- |
@@ -36,33 +43,10 @@
 <p class='project-p'>Also, I'm using pytest for testing on my API. For the frontend, I will use React and React Native, in order to offer both a web version and a mobile version of the application. I am also using Docker to streamline development and ensure that my application is easy to share and deploy.
 </div>
 
-<h2 class="poppins-semibold">Languages</h2>
-<p>✔️ Spanish (native)</p>
-<p>✔️ English (A2)</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=markospy&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=markospy&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markospy&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<h2 class="poppins-semibold">Professional goals for 2024</h2>
-<p>✔️ Develop projects</p>
-<p>✔️ Join a team that promotes professional growth</p>
-
-<h2 class="poppins-semibold">Contact</h2>
-<p><a href="https://www.linkedin.com/in/marcos-antonio-avila-morales/">LinkedIn</a></p>
-<p><a href="mailto:marco.developer@outlook.com">Email: marco.developer@outlook.com</a></p>
-<p class="poppins-regular">Let's collaborate on exciting Python projects!</p>
-
-<h2>Certifications</h2>
-<p>✔️ Bases de datos modularización deploy</p>
-<p>✔️ FastAPI</p>
-<p>✔️ Terminal</p>
-<p>✔️ SQL MySQL</p>
-<p>✔️ Diploma BD</p>
-<p>✔️ Python Avanzado</p>
-<p>✔️ Fundamentos Python</p>
-<p>✔️ Lenguajes de programación</p>
-<p>✔️ Funciones estructuras control</p>
-<p>✔️ Algoritmos diagrama de flujo</p>
-<p>✔️ Introduction to data science</p>
-<p>✔️ Data science method</p>
-<p>✔️ Análizy data</p>
-<p>✔️ Visualizing data</p>
-<p>✔️ Matemáticas data science</p>
+---
+[![](https://visitcount.itsvg.in/api?id=markospy&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
